@@ -1,5 +1,4 @@
-# employ-salary-prediction-AI-ML
-
+# 🧠 Employee Salary Prediction Using Random Forest
 
 This project predicts whether an individual's income exceeds $50K per year using demographic data and a Random Forest Classifier.
 
@@ -27,4 +26,6 @@ The confusion matrix below shows how well the model performed on test data:
 ---
 
 ## 📋 Classification Report (Sample Output)
+
+
 
